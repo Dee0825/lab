@@ -13,4 +13,4 @@ while counts > 0:
 	else:
 		print('your guess is more smaller')
 	counts = counts -1
-	print('game over')
+print('game over')
